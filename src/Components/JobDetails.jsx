@@ -8,7 +8,9 @@ const JobDetails = () => {
       <p><b>Job Title:</b> {jobDetail.title}</p>
       <p><b>Salary:</b> {jobDetail.salary}</p>
       <p><b>Location:</b> {jobDetail.location}</p>
-      <p><b>Description:</b> a fantastic job </p>
+      <p><b>Description:</b> Integrate data from various back-end web services and databases.
+       Work with stakeholders to gather and refine specifications and requirements based on technical needs.
+        Create and maintain software documentation. </p>
       <button>Apply Now</button>
     </div>
   );
